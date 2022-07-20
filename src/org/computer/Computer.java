@@ -8,7 +8,7 @@ public class Computer {
 	}
 	
 	private void newComp() {
-		System.out.println("new");
+		System.out.println("new computer");
 
 	}
 	
