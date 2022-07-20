@@ -4,9 +4,14 @@ public class Computer {
 
 	public void computerModel() {
 		System.out.println("Computer Model");
+		
 	}
 	
-	
+	private void newComp() {
+		System.out.println("new computer");
+		System.out.println("old computer");
+
+	}
 	
 	
 }
