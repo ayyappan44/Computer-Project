@@ -9,7 +9,9 @@ public class Computer {
 	
 	private void newComp() {
 		System.out.println("new computer");
+		System.out.println("old computer");
 
 	}
+	
 	
 }
