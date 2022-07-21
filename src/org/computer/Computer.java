@@ -4,12 +4,16 @@ public class Computer {
 
 	public void computerModel() {
 		System.out.println("Computer Model");
-		System.out.println("model");
-		System.out.println("name");
-		System.out.println("version");
+		
+		}
+		
+		private void newComp() {
+			System.out.println("new computer");
+			System.out.println("old computer");
+			System.out.println("model");
+			System.out.println("name");
+			System.out.println("version");
 	}
-	
-	
 	
 	
 }
